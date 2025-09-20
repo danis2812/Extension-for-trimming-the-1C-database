@@ -1,0 +1,1 @@
+# Extension-for-trimming-the-1C-database

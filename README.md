@@ -1,1 +1,1 @@
-# Extension-for-trimming-the-1C-database
+# Расширение для обрезки баз 1С на MS SQL Server
